@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "datadiri":[
+    {"argument":"NAMA","content":":   MANA SAYA TAU"},
+    {"argument":"NIM","content":":   141410134"},
+    {"argument":"TTL","content":":   Purwodadi, 08 Agustus 1997"},
+    {"argument":"ALAMT","content":":   Plaju Palembang"},
+    {"argument":"jENIS KELAMIN","content":":   Laki - Laki"},
+    {"argument":"AGAMA","content":":   Islam"}
+  ]
+}
